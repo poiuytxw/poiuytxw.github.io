@@ -28,7 +28,7 @@ latest_posts:
 ---
 Hi!
 
-I am a PhD student at the Hong Kong University of Science and Technology, under supervision from **Prof. Pan HUI** and **Prof. Tristan Braud**. My research interests include human computer interaction, ubiquitious computing, robotics and VR/AR.  I am deeply passionate about exploring novel ways to bridge the gap between humans and technology, with a particular emphasis on creating immersive experiences, enhancing user engagement, and driving innovation in next-generation computing systems.
+I am a PhD student at the Hong Kong University of Science and Technology, under supervision from **Prof. Pan HUI** and **Prof. Tristan Braud**. I also acheived my bachelor degree of engineering majoring Electronic Engineering and minoring robotics in HKUST. My research interests include human computer interaction, ubiquitious computing, robotics and VR/AR.  I am deeply passionate about exploring novel ways to bridge the gap between humans and technology, with a particular emphasis on creating immersive experiences, enhancing user engagement, and driving innovation in next-generation computing systems.
 
 I have published work in CSCW, UIST, and I am actively involved in collaborative research projects. My academic journey is driven by curiosity and a commitment to impactful scholarship.
 
